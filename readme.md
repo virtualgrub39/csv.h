@@ -10,7 +10,7 @@ See [example.c](example.c) for example usage, and [header file](csv.h#L7) for co
 
 ## Performance
 
-It walked through 2000000 line csv file in 1.75 seconds.
+It walked through 2000000 line csv file in 2.4 seconds.
 
 The example code runs in 40 seconds for the same 2 mil. row file. Most of the time is spent on printing.
 
